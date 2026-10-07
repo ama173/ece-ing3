@@ -56,3 +56,23 @@ bin/
 obj/
 *.layout
 *.depend
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# LaTeX temporary files
+*.aux
+*.log
+*.toc
+*.out
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# PlatformIO build files
+.pio/
